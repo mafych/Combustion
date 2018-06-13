@@ -1,0 +1,74 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  ConsoleApplication5.cpp
+  Feedform.cpp
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(287): error C3861: 'optimalize_cb_pressure': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(288): error C3861: 'optimize_cb_temp': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(289): error C3861: 'optimize_cb_density': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(296): error C3861: 'optimize_cb_enthalpy': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(297): error C3861: 'optimize_cb_enthalpy': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(298): error C3861: 'optimize_cb_density': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(362): error C3861: 'sum_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(364): error C3861: 'set_volume_amount': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(383): error C3861: 'out_enthalpy': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(384): error C3861: 'out_enthalpy': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(385): error C3861: 'out_density': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(392): error C3861: 'sum_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(392): error C2228: left of '.ToString' must have class/struct/union
+  c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(392): note: type is 'unknown-type'
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(393): error C3861: 'sum_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(404): error C3861: 'sum_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(409): error C3861: 'sum_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(411): error C3861: 'set_mass_amount': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(430): error C3861: 'out_enthalpy': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(431): error C3861: 'out_enthalpy': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(432): error C3861: 'out_density': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(437): error C3861: 'sum_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(437): error C2228: left of '.ToString' must have class/struct/union
+  c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(437): note: type is 'unknown-type'
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(438): error C3861: 'sum_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(447): error C3861: 'sum_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(486): error C3861: 'set_mass_amount': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2522): error C3861: 'norm_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2523): error C3861: 'set_mass_amount': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2529): error C3861: 'norm_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2530): error C3861: 'set_volume_amount': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2540): error C3861: 'norm_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2541): error C3861: 'set_mass_amount': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2553): error C3861: 'norm_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2554): error C3861: 'set_volume_amount': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2582): error C3861: 'in_pressure': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2583): error C3861: 'in_temp': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2584): error C3861: 'ideal_gas_rho': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2585): error C3861: 'out_density': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2621): error C3861: 'sum_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2642): error C3861: 'sum_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2642): error C2228: left of '.ToString' must have class/struct/union
+  c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2642): note: type is 'unknown-type'
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2644): error C3861: 'sum_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2644): error C2228: left of '.ToString' must have class/struct/union
+  c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2644): note: type is 'unknown-type'
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2652): error C3861: 'sum_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2653): error C3861: 'set_volume_amount': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2660): error C3861: 'sum_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2661): error C3861: 'set_mass_amount': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2719): error C3861: 'sum_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2723): error C3861: 'norm_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2724): error C3861: 'set_mass_amount': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2732): error C3861: 'sum_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2736): error C3861: 'norm_array': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2737): error C3861: 'set_volume_amount': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2766): error C3861: 'out_enthalpy': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2769): error C3861: 'out_enthalpy': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2772): error C3861: 'out_density': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2778): error C3861: 'out_pressure': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2781): error C3861: 'out_temp': identifier not found
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(2784): error C3861: 'out_density': identifier not found
+  MyForm.cpp
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\functions.h(460): warning C4101: 'ex': unreferenced local variable
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\functions.h(520): warning C4101: 'ex': unreferenced local variable
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\functions.h(549): warning C4101: 'ex': unreferenced local variable
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\functions.h(581): warning C4101: 'ex': unreferenced local variable
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\functions.h(613): warning C4101: 'ex': unreferenced local variable
+c:\users\mafych.fp\source\repos\combustionone\consoleapplication5\fuel1.h(489): warning C4101: 'e': unreferenced local variable
+  Generating Code...
